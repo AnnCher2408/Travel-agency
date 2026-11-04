@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+
+div {
+	background-color: #098765;
+    width: 280px;
+	padding: 10px;
+    margin: 30px;
+    border-radius: 10px;
+    display: inline-block;
+}
+div img {
+	width: 250px;
+  	height: 200px;
+    border-radius: 10px 10px 0 0;
+}
+.take {background-color: #FFA500;
+}
